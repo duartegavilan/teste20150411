@@ -1,0 +1,1 @@
+com git init faço crio um repo local vazio
